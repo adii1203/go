@@ -1,0 +1,3 @@
+module SMI
+
+go 1.22.1
